@@ -1,12 +1,5 @@
 # 🛡️ LetsDefend Writeups & Notes
 
-## 📋 About This Repo
-
-Unlike CTF-style platforms, LetsDefend puts you in the role of a SOC 
-analyst responding to real alerts. These writeups document my investigation 
-process, triage decisions, and conclusions — written the way I would 
-communicate findings in a professional SOC environment.
-
 ## 📂 Investigations
 
 ### Malware Analysis
