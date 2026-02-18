@@ -1,11 +1,5 @@
 # 🛡️ LetsDefend Writeups & Notes
 
-A collection of writeups, alert investigations, and notes from hands-on 
-SOC exercises completed on LetsDefend. LetsDefend simulates a real SOC 
-environment — complete with a SIEM, case management system, and live 
-alerts — making it one of the most practical blue team training platforms 
-available.
-
 ## 📋 About This Repo
 
 Unlike CTF-style platforms, LetsDefend puts you in the role of a SOC 
